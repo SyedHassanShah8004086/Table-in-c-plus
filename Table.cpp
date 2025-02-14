@@ -9,4 +9,5 @@ int main(){
 	for(int i=1;i<=b;i++){
 		cout<<a<<"\tx\t"<<i<<"\t=\t"<<a*i<<endl;
 	}
+	return 0;
 }
